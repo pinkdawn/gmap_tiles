@@ -1,3 +1,14 @@
+
+做了以下改变：
+
+1. 改下中文地图
+2. 多线程，大幅提速
+3. 地图缩放等级，一次下载。
+
+如果下载出错，重新运行即可，会智能省略已下载的文件。
+
+以下为原作者介绍。
+
 ### Download Google Maps tiles
 
 Edit `download_tiles.py` to specify the area and the zoom level you want.
