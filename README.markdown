@@ -7,6 +7,10 @@
 
 如果下载出错，重新运行即可，会智能省略已下载的文件。
 
+相关参数，可以修改`download_tiles.py`里的最后几行。
+
+下载完地图能做什么？可以使用 leaflet 等js map framework，架设你自己的离线地图服务器。
+
 以下为原作者介绍。
 
 ### Download Google Maps tiles
